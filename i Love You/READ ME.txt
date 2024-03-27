@@ -1,0 +1,16 @@
+Why did you open this?? HAHA! Got ya!
+=================================================================================================
+Project: Smart Chef ************
+version_27/03/2024
+=================================================================================================
+Last update as of 27/03/2024
+=================================================================================================
+- Program is ran by opening 'main.py' in IDLE.
+- 'smartChef.py' is a backup code containing all modules.
+- There might be a need to recreate the Directory below in order to run the code:
+		C:\Users\Admin\Documents\Uni\S3\ICT619\AI project\Project Smart Chef\Program\main.py
+
+- Upon running the program as of version_27/03/2024:
+	- Primitive interface sample is in the 'Program' folder.
+
+=================================================================================================
